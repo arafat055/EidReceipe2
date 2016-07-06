@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EidReceipe</string>
+    <string name="rec_01">ফখরুদ্দিনের খাসির কাচ্চি বিরিয়ানি</string>
+    <string name="rec_02">হাজীর বিরিয়ানি</string>
+    <string name="rec_03">বিফ শিক কাবাব</string>
+    <string name="rec_04">সবজি-মাংসের বাহারি পোলাও</string>
+    <string name="rec_05">গরুর মগজ ভুনা</string>
+    <string name="rec_06">চিকেন ডালনা</string>
+    <string name="rec_07">নুরজাহান বিরিয়ানি</string>
+    <string name="rec_08">মেজবানি মাংস</string>
+    <string name="rec_09">শাহী আস্ত চিকেন রোস্ট</string>
+    <string name="rec_10">চট্টগ্রামের মেজবানী মাংস</string>
+    <string name="rec_11">আচারি মাংস</string>
+    <string name="rec_12">পেশোয়ারি ভুনা কাবাব</string>
+    <string name="rec_13">গ্রিল বিফ</string>
+    <string name="rec_14">কাশিক ফালুদা</string>
+    <string name="rec_15">রাবড়্রি</string>
+    <string name="rec_16">মাটন ভুনা</string>
+    <string name="rec_17">ভাজা মাংস</string>
+    <string name="rec_18">ঝুরা মাংস</string>
+    <string name="rec_19">মিষ্টি বাকরখানি</string>
+    <string name="rec_20">নওয়াবি বিরিয়ানি</string>
+    <string name="creation">প্রস্তুত প্রনালী</string>
+    <string name="ingradients">উপকরন</string>
+
+</resources>
